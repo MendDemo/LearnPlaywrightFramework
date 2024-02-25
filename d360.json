@@ -1,0 +1,321 @@
+{
+  "cookies": [
+    {
+      "name": "NAVAllowedAncestor",
+      "value": "https%3A%2F%2Fbusinesscentral.dynamics.com",
+      "domain": "msasiincas2815-d6eegu0.appservices.asia.businesscentral.dynamics.com",
+      "path": "/tenant/msasia9250t18728206/tab/ef4ade16-35d3-436b-a905-f679fbe75665",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SessionId",
+      "value": "rajvvisvxnc2bdrwfizi3hsk",
+      "domain": "msasiincas2815-d6eegu0.appservices.asia.businesscentral.dynamics.com",
+      "path": "/tenant/msasia9250t18728206/tab/ef4ade16-35d3-436b-a905-f679fbe75665",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.47DEQpj8HBQ",
+      "value": "CfDJ8FRycoPuoBVEk9xnj-TO1GtxBHaElH8SjNSbUeOATOoq7LtIfsR98AN1E4H_D3ugNdAGCkFj6KXfT7-MkrKnUvMP6MupZAnL34BnooOkXik-BjmWI7nbt_xj22zwvbccwCbJVjWNDYt8XFIEB61H5JM",
+      "domain": "msasiincas2815-d6eegu0.appservices.asia.businesscentral.dynamics.com",
+      "path": "/tenant/msasia9250t18728206/tab/ef4ade16-35d3-436b-a905-f679fbe75665",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8FRycoPuoBVEk9xnj-TO1GsE6ZB9NlKRtxW1AVM-Ijom2QqJPSrgWZOXXAf273o4BxlpTxHVt_UTYxTGGErEq1x67g-qC5r9e_OnOiLm28ACabQhuVKJZFUk5BMouhNARWsrScWvdom48rTo_SxYSSlqORgu9y5dn8LHJgRUgHPm_Zzh5HU4qKic6wM69IADzF4MxZwQZAMvlh9yXY-ybY9PYm86q7RcJx51LQ2r91SUPT3j4QJYikUao03s84jJ7hjQngehuaZfEbRhQRFnYsknmX5ctzARX7JG0Sa8DJr_",
+      "domain": "msasiincas2815-d6eegu0.appservices.asia.businesscentral.dynamics.com",
+      "path": "/tenant/msasia9250t18728206/tab/ef4ade16-35d3-436b-a905-f679fbe75665",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ApplicationGatewayAffinity",
+      "value": "CaOZ7gxx",
+      "domain": "msasiincas2815-d6eegu0.appservices.asia.businesscentral.dynamics.com",
+      "path": "/tenant/msasia9250t18728206/tab/ef4ade16-35d3-436b-a905-f679fbe75665",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".Antiforgery.FCE",
+      "value": "CfDJ8EKvXSNQYyJJtw2WBqCc2VKzbP48538vCbsyZiT678RAJWCLpLEovwkECAtYrdHSLUyF7qdgOAwW0En-8U_XDb0sZtzfs8fjMEo1MOmA33LDRM9n9aAK_YxxEQ5cBIJS7MpOIEBc-F0w7KyXCHx6uvs",
+      "domain": "businesscentral.dynamics.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASLBSA",
+      "value": "00032aad751b8b38913bf1e338b5faba9c8e3902ff5cdcb60eeb70e2d214973b1a0e",
+      "domain": "businesscentral.dynamics.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASLBSACORS",
+      "value": "00032aad751b8b38913bf1e338b5faba9c8e3902ff5cdcb60eeb70e2d214973b1a0e",
+      "domain": "businesscentral.dynamics.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-pz3yRcBcHiA",
+      "value": "AQABAAEAAAAmoFfGtYxvRrNriQdPKIZ-osbuEr30QvhHh46Uf_XeEPYxqNjvihLxxtKGkYHOu0ldxsDZaOUUCQWAtRV9Ry5GN2X0rUUZNK-SQDQtbxuSdVsIQRY7Ss_n6FA_FuQCZ47Gm9Uy1glsmWIehY_R7nGbCq3iH2QOxP9KM_NLEkNIHyAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1706880591.313202,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brcap",
+      "value": "0",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1740486591,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "value": "b76e57e3d722417c8b7ad1a9dfbe68ab",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "value": "id=N&lt=1706790591&co=1",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wlidperf",
+      "value": "FR=L&ST=1706790594205",
+      "domain": ".microsoftonline.com",
+      "path": "/",
+      "expires": 1740486594,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHLIGHT",
+      "value": "+6e7fb3bf-82ef-4974-9887-7816835068b9",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "value": "PAQABAAEAAAAmoFfGtYxvRrNriQdPKIZ-pTWwoZ6IFpVf59LX0JalfiRwiKbakRRa4Bs77Pck16Pp_YjcuRlDlM5sXBB_iLtF7l_eBRQLYiqTkEqTylR-BjIe9CC6Wj1lG54uZwhluj0epwYxr1M3AeXrrQlTtaxbh2mJZpEwOmXDuMMNOar-6Uf2PAU6SnRBaCrLJ8LssksgAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-GLKMsJmmng",
+      "value": "AQABAAEAAAAmoFfGtYxvRrNriQdPKIZ--54ecatk_k0D8E6hYM5tWdgdWwl2lxKeNtDaFIvAayvXdPP4r7qZ5CzFkm04VJS2afFoL6QUdRhf89Ot5RQPH-uE9EkMrYD0X5bXjF1OeK92UI3-KpPxlblUCSCb3VWx3w8STf4m98Im1QamXzkPOiAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1706880594.615041,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CCState",
+      "value": "RWhJS0VDcDNVVUM1S0FaT2dvTGM2b1hMUjlJPQ==",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1707654615.791486,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MC1",
+      "value": "GUID=e644bf529d1b4cf6bf140648b5e3fe42&HASH=e644&LV=202402&V=4&LU=1706790603400",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1738326604.551149,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MS0",
+      "value": "4f90e42e61204065bb107abacf30831e",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1706792404.551251,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".auth",
+      "value": "CfDJ8EKvXSNQYyJJtw2WBqCc2VJATbgO6SdordMntVxmcZWhz2B01ymf95un9nJC1R4DFxMfIezzwOUDmriH0J6YSaK75opWjJKdbNjFt7rLte_-LHyHMlijyLPQgJNfIqjvWjIJMYt7WW1rGmEVIhNt-P6gbJ5kqrxugCcmV1031C-91pWFyJ0I82_LxglnSLZumOcA_LgS2hRbaeHZ4Ebh6t9Vb8ijqCqHUcV3YHiW08r_DbAmE6vSmP_K1MhlwrHdWUieD0PNierlHCUq-bTu8ly2YCMNQVXV9Ry9jGoHUF96",
+      "domain": "businesscentral.dynamics.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "value": "45399871-2585-4f42-8b91-c236fd0ce4f2",
+      "domain": "businesscentral.dynamics.com",
+      "path": "/",
+      "expires": 1738326615.275787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHPERSISTENT",
+      "value": "0.AT0A1enpVF82L02ZzZwjXIquYPfhvoluXopNnz3s1gElnacBAAA.AgABAAQAAAAmoFfGtYxvRrNriQdPKIZ-AgDs_wUA9P-4tAjBYiLi4UVP_GJmcmLqlEbnGLYVTysGQtOMwafvvQAvT0JFLGVJZcd7gd3W2vxRiRUAYc4LJAFm4lzzQoyON5Qj2wMIIkJoigNvBhidYX1iq6c9oZdojdNxWVCVFx3MMI8wLhCn9maP3kjIEetB58EReHYw_HxUSYWqKY-WHtyia-i14InZWtTx2-BG1A0N3itDsxECeRLwldxDUfGfS2YijlTl4l34GPuqlI9XKD_hMuXnARk-wxUcNtie_XnuEYk3VcP5N0asrbqenOJAM4PIr6wZvkuNmd-w912sAM_N4SoFtjAoH-_6fEkv3AvsHQxpkrTTjz1feIdBmEHQTGDumoipKSHqE4-BFAqJUeUSKNUDXGavZYjW8SA7ASid1uJAoB6wRiFhH5th2GNdYf4SQ6gdP-wi8Qwm1LaKk_Zyw2BdEStlbLS6iFRzNv1YQsMusk3CMEA8d-UZUGmtNbUR0yfKAcUFR7OQVjDMGv_8BeVbmrD9CSp7wsg09xx5zwgVR5w4UI0BqEXLu2uv5OCoj1LqAu7r66j0qlMyrMl7xuaKBZXxoeZU0je1d4CBaqICbiz4TunRqvly01gaCuYZ34nY99daGsoJ-Ow0W2dDNWLJHOPF1H3aFzFRLWQ",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1714566615.791268,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTH",
+      "value": "0.AT0A1enpVF82L02ZzZwjXIquYPfhvoluXopNnz3s1gElnacBAAA.AgABAAQAAAAmoFfGtYxvRrNriQdPKIZ-AgDs_wUA9P-VwX2k-R0U2dbYBF3CbtoH30b5Bv2IcGmEPBfu0B1QerAoE59Q-EJIAaaB9fD9Z486xdV4msWNDg",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "buid",
+      "value": "0.AT0A1enpVF82L02ZzZwjXIquYPfhvoluXopNnz3s1gElnacBAAA.AQABAAEAAAAmoFfGtYxvRrNriQdPKIZ-wUkDxMn_2LRi6zgXe7L1hXUm4tbq60dPros75G-QgzozP8qdIfNrdEng9QjEq1X14-NKsp0A84COgYBI9oBe9PiLsgJ3S-K4avBEvX9vSCmhJhy-QjPKotH54aNS2PexwYW3FaFoJRyUCDVm9chlJ6P-Lmf6jhrSScaBMfxNUdIgAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1709382615.791438,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SignInStateCookie",
+      "value": "CAgABAAIAAAAmoFfGtYxvRrNriQdPKIZ-AgDs_wUA9P_1UxuRFVVcOoIxoxagHzy62GkiG8fYG46xM-xKA2yby9EQZIi__l5qp4eUY77trQOhlr97nNFe_c17Mp6C1tZYwJqFXoGnO-Rc41Xnf3I4DLnMyi83fAC13gVYvxlczx0AlGkhX6pU4XMTEB1JB69NK2S2nW5RMP-8onyL4NlCNvrDAhhuSaQaOnGPyWq-DAyiDPebwZ6XSseKK1Pd7c2jN1qbY6JzRaY6IScRK1g0xT_RlYVmmuC59GsQ73JVJTGvAidcXUdJQjanQlT47TUEHzNs7oQYGxQEGbR1jnrS0ONyv5G-CdBGTCFkP_jsZfWSS6rS",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "value": "Av-HPrI3yTFBqG90yzb-8qvOpzQzAQAAANaFTd0OAAAAOsQnvAEAAADChU3dDgAAAAbHCyEBAAAAwoVN3Q4AAAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1709382615.791569,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ClientStorageCookie",
+      "value": "ui03auEsu6rWMvQKXYIoXj3Tj1RQIZqXkC4sbazNQYQ%3D%26aji4u7kEPRUuICGAo063Qw%3D%3D",
+      "domain": "webshell.suite.office.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://businesscentral.dynamics.com",
+      "localStorage": [
+        {
+          "name": "O365Shell_BootInfo_KeyStore",
+          "value": "O365Shell_BInfo_https://res-1.cdn.office.net/shellux/api/ShellBootInfo/business/OneShell/en-us?bucketId=4"
+        },
+        {
+          "name": "storageSupportedTestKey",
+          "value": "1"
+        },
+        {
+          "name": "RADHAKRISHNAN.RANGARAJAN:PowerAutomateDataService",
+          "value": "{\"version\":1,\"flows\":[]}"
+        },
+        {
+          "name": "O365Shell_BInfo_https://res-1.cdn.office.net/shellux/api/ShellBootInfo/business/OneShell/en-us?bucketId=4",
+          "value": "{\"Architecture\":1,\"Audience\":1,\"Resources\":{\"Version\":\"1.20240126.11.0\",\"CatalogXml\":\"<ResourceCatalog>\\r\\n  <Resources>\\r\\n    <Resource Key=\\\"abt\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.abt.72fc052e6bfcdee5a128.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.abt.72fc052e6bfcdee5a128.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"abtprompt\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.abtprompt.9dfa293744e4c088a027.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.abtprompt.9dfa293744e4c088a027.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"appicons\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.appicons.b3d21ba41397ef703bd5.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"applauncher\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.applauncher.0b7be4938dfcd935ff07.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.applauncher.beb10f6997f22eafb168.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"applauncherreactcontrol\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.applauncherreactcontrol.c8d79d997f2c614e322f.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"bootstrapper\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.bootstrapper.fb7e673e84603de5ff7a.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"changephoto\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.changephoto.8c95df44ee91802cb07f.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.changephoto.8c95df44ee91802cb07f.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"chat\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.chat.11ef1949602ff4a1bdd5.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.chat.11ef1949602ff4a1bdd5.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"chatbase\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.chatbase.2bd77a4f1fd5e7ab0a04.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.chatbase.0605b5e833e42cb06503.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"chaterror\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.chaterror.8120065a1a4ca4ff32b4.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.chaterror.8120065a1a4ca4ff32b4.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"consappdata\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.consappdata.d5cda4f924c249fdd4fe.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"core\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.core.bd614a79a6f26d11c95e.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.core.7e35cfe1064ac4a3ef49.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"crossdomainproxyiframe\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.crossdomainproxyiframe.636f6ac5218728bd2718.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"diagnostics\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.diagnostics.345c84891a9847c929ee.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.diagnostics.345c84891a9847c929ee.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"docsmodule\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.docsmodule.e028ae6a1cdb205ac99f.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.docsmodule.d14ee8c47754d0017dfa.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"dtt\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.dtt.aa27e8ad9b1ed2481199.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.dtt.aa27e8ad9b1ed2481199.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"es6polyfills\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.es6polyfills.55cb0537167654350a10.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"es6promise\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.es6promise.304f1f51c876e8c6b31f.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"exchangedata\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.exchangedata.3aeca9fb765100f52e53.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.exchangedata.3aeca9fb765100f52e53.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"extraflexpane\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.extraflexpane.74680a0fb213bb1d8842.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.extraflexpane.c73a26b8716fc1efbff8.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"featureflags\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.featureflags.296b40018b859cfaf4fd.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.featureflags.181d60f78ae986517669.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"legacyheader\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.legacyheader.4fd2277118f8c150240d.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"m365start\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.m365start.9cde00e7a17b5d549a41.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.m365start.50f7b945095ab50ecf8a.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"mast\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.mast.8d1fd5f3e298f6d9bedf.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.mast.8d1fd5f3e298f6d9bedf.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"mastprompt\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.mastprompt.eabb3507204647899964.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.mastprompt.eabb3507204647899964.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"msaltokenfactoryiframe\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.msaltokenfactoryiframe.48533ae42cf3572f7256.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"msrcrypto\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.msrcrypto.12dfa0c3ffd9b7483bb9.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.msrcrypto.12dfa0c3ffd9b7483bb9.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"myday\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.myday.e9e62429372a8f299491.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.myday.d31e9c29701c97f2e0f3.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"notificationflex\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.notificationflex.2eae9385ca04ebe183aa.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.notificationflex.a5e211755091412c17ca.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"notifications\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.notifications.33de71771026484fcf81.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.notifications.0a8f96be554216cea41c.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"otellogging\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.otellogging.564297ef38e60454fd38.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.otellogging.564297ef38e60454fd38.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"plus\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.plus.9974370a8e48992e707a.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.plus.b0487f6ec5e6cb710ac8.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"responsive\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.responsive.61ad355c2ddc1b55b9ff.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"sb-strings\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.sb-strings.6868b682fef76d20a024.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.sb-strings.6868b682fef76d20a024.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"search-box-container-plugins_dist_ondemand_js\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.search-box-container-plugins_dist_ondemand_js.e50460ef429506d80b99.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"searchbox\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.searchbox.11ae875bd41aafd194ae.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.searchbox.0d3eaa0394c72ed038e5.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"searchux\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.searchux.fdc56f789931b16e9432.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.searchux.fdc56f789931b16e9432.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"shellreactcontrol\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.shellreactcontrol.490f5c97a5f683c4455d.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"staticshell\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.staticshell.b2fc7e8d95c07d31962a.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"suiteux-shared_out_suiteux-shared_suiteux-header_view_enhanced-sb_sx_scss\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.suiteux-shared_out_suiteux-shared_suiteux-header_view_enhanced-sb_sx_scss.118b543017d493dcc870.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"supportedlanguages\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>suiteux.shell.supportedlanguages.286e755b47f8ad0e9778.rtl.js</RTLPath>\\r\\n      <LTRPath>suiteux.shell.supportedlanguages.286e755b47f8ad0e9778.js</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"themeplus\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.themeplus.3450a461901073fb5b57.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"vendor\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.vendor.4b5d2b7ed19f4c353db24dbe7791eb1e.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"allthemes\\\" Type=\\\"Path\\\">\\r\\n      <Path>allthemes.1bded1a01016028bcc2c8df410a76daf.json</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"shared\\\" Type=\\\"Path\\\">\\r\\n      <Path>suiteux.shell.shared.384aace5f98a8622f421cf599357b68d.css</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_angular\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>angular.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_arcticsolitude\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>arcticsolitude.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_backpack\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>backpack.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_balloons\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>balloons.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_beach\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>beach.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_black\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>black.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_blueberry\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>blueberry.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_blueprint\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>blueprint.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_bricks\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>bricks.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_cats\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>cats.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_chevron\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>chevron.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_circuit\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>circuit.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_comic\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>comic.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_contrast\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>contrast.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_cordovan\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>cordovan.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_crayon\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>crayon.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_cubes\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>cubes.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_cubism\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>cubism.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_darkcordovan\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>darkcordovan.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_darkorange\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>darkorange.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_diamonds\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>diamonds.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_far\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>far.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_futureplus\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>futureplus.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_grape\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>grape.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_green\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>green.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_jelly\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>jelly.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_lightblue\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>lightblue.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_lightgreen\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>lightgreen.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_lite\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>lite.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_magneticmood\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>magneticmood.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_mediumdarkblue\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>mediumdarkblue.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_minimal\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>minimal.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_modern\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>modern.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_mountain\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>mountain.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_natureundefined\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>natureundefined.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_neworange\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>neworange.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_newpink\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>newpink.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_orange\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>orange.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_paint\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>paint.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_pink\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>pink.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_pixel\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>pixel.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_polka\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>polka.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_pomegranate\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>pomegranate.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_primary\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>primary.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_purple\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>purple.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_rainbow\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>rainbow.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_raspberry\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>raspberry.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_readyconfetti\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>readyconfetti.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_red\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>red.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_ribbon\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>ribbon.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_ribbonrelease\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>ribbonrelease.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_robot\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>robot.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_simple\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>simple.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_spectrum\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>spectrum.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_strawberry\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>strawberry.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_super\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>super.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_supplies\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>supplies.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_teagarden\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>teagarden.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_teal\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>teal.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_unicorn\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>unicorn.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_watermelon\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>watermelon.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_whale\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>whale.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_whimsical\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>whimsical.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_wntrlnd\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>wntrlnd.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"usertheme_wrld\\\" Type=\\\"UserTheme\\\">\\r\\n      <Json>wrld.json</Json>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"calendarnotificationaudio\\\" Type=\\\"Path\\\">\\r\\n      <Path>calendarnotificationaudio.mp3</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"callnotificationaudio\\\" Type=\\\"Path\\\">\\r\\n      <Path>callnotificationaudio.mp3</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"chatnotificationaudio\\\" Type=\\\"Path\\\">\\r\\n      <Path>chatnotificationaudio.mp3</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"mailnotificationaudio\\\" Type=\\\"Path\\\">\\r\\n      <Path>mailnotificationaudio.mp3</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"systemnotificationaudio\\\" Type=\\\"Path\\\">\\r\\n      <Path>systemnotificationaudio.mp3</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"icon_notifications_progress_gif\\\" Type=\\\"Path\\\">\\r\\n      <Path>icon_notifications_progress.gif</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365icons_eot\\\" Type=\\\"Path\\\">\\r\\n      <Path>o365icons.eot</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365icons_svg\\\" Type=\\\"Path\\\">\\r\\n      <Path>o365icons.svg</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365icons_ttf\\\" Type=\\\"Path\\\">\\r\\n      <Path>o365icons.ttf</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365icons_woff\\\" Type=\\\"Path\\\">\\r\\n      <Path>o365icons.woff</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365shared_css\\\" Type=\\\"LTRRTLPath\\\">\\r\\n      <RTLPath>o365shared.rtl.css</RTLPath>\\r\\n      <LTRPath>o365shared.css</LTRPath>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365shared_js\\\" Type=\\\"Path\\\">\\r\\n      <Path>o365shared.js</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"o365sharedclusteredimage_png\\\" Type=\\\"Path\\\">\\r\\n      <Path>o365sharedclusteredimage.png</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"transparent_gif\\\" Type=\\\"Path\\\">\\r\\n      <Path>transparent.gif</Path>\\r\\n    </Resource>\\r\\n    <Resource Key=\\\"shellstrings\\\" Type=\\\"LangPath\\\">\\r\\n      <LangPath Language=\\\"af\\\">af/shellstrings.2579d433e1cd749a5f29d674eaf4623b.json</LangPath>\\r\\n      <LangPath Language=\\\"am\\\">am/shellstrings.6ebb01d71383e9e307f722c9fbead203.json</LangPath>\\r\\n      <LangPath Language=\\\"ar\\\">ar/shellstrings.09ac466f697edbe5551dc7e19cf7af89.json</LangPath>\\r\\n      <LangPath Language=\\\"as-in\\\">as-in/shellstrings.e287ff82c42f2298fbd91300f83282fe.json</LangPath>\\r\\n      <LangPath Language=\\\"az-latn-az\\\">az-latn-az/shellstrings.6a14beffaa619f3376ea88d3b76e5dd5.json</LangPath>\\r\\n      <LangPath Language=\\\"be-by\\\">be-by/shellstrings.a22c7b182e4e6376f0348059f5cc731b.json</LangPath>\\r\\n      <LangPath Language=\\\"bg\\\">bg/shellstrings.d0739c1c3d6091a4780d9c5c0e32b875.json</LangPath>\\r\\n      <LangPath Language=\\\"bn-bd\\\">bn-bd/shellstrings.ee291223030642f8e18778adf9cd7022.json</LangPath>\\r\\n      <LangPath Language=\\\"bn-in\\\">bn-in/shellstrings.51e0c056d1d24481709a8832d9dbab9b.json</LangPath>\\r\\n      <LangPath Language=\\\"bs-latn-ba\\\">bs-latn-ba/shellstrings.ed26d18e69e836fce9b0805ebb4e8555.json</LangPath>\\r\\n      <LangPath Language=\\\"ca-es-valencia\\\">ca-es-valencia/shellstrings.99382e1a5375b51d7620cf3930dd2c1c.json</LangPath>\\r\\n      <LangPath Language=\\\"ca\\\">ca/shellstrings.7c9f2e2af0e5453422f1f81fef3843cd.json</LangPath>\\r\\n      <LangPath Language=\\\"cs\\\">cs/shellstrings.da3518bc126f23eeeab259091e81856e.json</LangPath>\\r\\n      <LangPath Language=\\\"cy\\\">cy/shellstrings.78f548598336a3b5597b0225acfaa0fc.json</LangPath>\\r\\n      <LangPath Language=\\\"da\\\">da/shellstrings.d44f1258cc33e1a76488821e27d4d490.json</LangPath>\\r\\n      <LangPath Language=\\\"de\\\">de/shellstrings.56317ed551f5cd4790dd281cffd61d1c.json</LangPath>\\r\\n      <LangPath Language=\\\"el\\\">el/shellstrings.77b73cbe1032c32fc0c62a4130b0a1d9.json</LangPath>\\r\\n      <LangPath Language=\\\"en-gb\\\">en-gb/shellstrings.14699f042104cbea7efd351304f28911.json</LangPath>\\r\\n      <LangPath Language=\\\"en\\\">en/shellstrings.f622e5ff866d01fb7f76ac815ddf43b3.json</LangPath>\\r\\n      <LangPath Language=\\\"es-mx\\\">es-mx/shellstrings.c0f7211cf165c6d3ab74d147545e3c02.json</LangPath>\\r\\n      <LangPath Language=\\\"es\\\">es/shellstrings.ed7c1f90abab030593c98b388f7db576.json</LangPath>\\r\\n      <LangPath Language=\\\"et\\\">et/shellstrings.b9db42c754e7c5f7b23ec0ec94f5de83.json</LangPath>\\r\\n      <LangPath Language=\\\"eu\\\">eu/shellstrings.4b6224ac3db3e343113acd2f5e9af7a1.json</LangPath>\\r\\n      <LangPath Language=\\\"fa\\\">fa/shellstrings.cc7ef36b644955e8679376393ceb92a9.json</LangPath>\\r\\n      <LangPath Language=\\\"fi\\\">fi/shellstrings.a1d76790c35227eb839ffe50b7ff8d04.json</LangPath>\\r\\n      <LangPath Language=\\\"fil\\\">fil/shellstrings.d22b7f3a3f227c41b1b7a3b9ecb75d8c.json</LangPath>\\r\\n      <LangPath Language=\\\"fr-ca\\\">fr-ca/shellstrings.8c8a6538c63836ef48a091fa52bf6992.json</LangPath>\\r\\n      <LangPath Language=\\\"fr\\\">fr/shellstrings.d0bb41bc05ee23b68a4b0cec15ff1f1b.json</LangPath>\\r\\n      <LangPath Language=\\\"ga-ie\\\">ga-ie/shellstrings.cf1cb76a34b8af55566c9be8bb649b3b.json</LangPath>\\r\\n      <LangPath Language=\\\"gd-gb\\\">gd-gb/shellstrings.5536fe3749605826568aa73d22fb62b7.json</LangPath>\\r\\n      <LangPath Language=\\\"gl\\\">gl/shellstrings.d3c03b414a56d177e843f65489c30e56.json</LangPath>\\r\\n      <LangPath Language=\\\"gu\\\">gu/shellstrings.6d1b820ced49e3e7fbe346d2ef0ddbe2.json</LangPath>\\r\\n      <LangPath Language=\\\"ha-latn-ng\\\">ha-latn-ng/shellstrings.0fe267410fb8a9065a407e422414af3e.json</LangPath>\\r\\n      <LangPath Language=\\\"he\\\">he/shellstrings.da9b7acd729a3054d9dcb8c54dd3cc60.json</LangPath>\\r\\n      <LangPath Language=\\\"hi\\\">hi/shellstrings.ee71d60037b00cef74610345489ca6c3.json</LangPath>\\r\\n      <LangPath Language=\\\"hr\\\">hr/shellstrings.b96ed8afb0bac6047049598a1e070f32.json</LangPath>\\r\\n      <LangPath Language=\\\"hu\\\">hu/shellstrings.3e27729d4ccb2cefdd55cf3667313c29.json</LangPath>\\r\\n      <LangPath Language=\\\"hy\\\">hy/shellstrings.5ad474af0ce29ced008bb2962cac9be1.json</LangPath>\\r\\n      <LangPath Language=\\\"id\\\">id/shellstrings.af9c53202530b268abdd247e22d3b341.json</LangPath>\\r\\n      <LangPath Language=\\\"is\\\">is/shellstrings.10208bcec0769a27dca25a09ae08de90.json</LangPath>\\r\\n      <LangPath Language=\\\"it\\\">it/shellstrings.f37272d35dee7fbe76bd4f46f49fbb8e.json</LangPath>\\r\\n      <LangPath Language=\\\"ja\\\">ja/shellstrings.d491ca59b7303031d6570746d6850cb9.json</LangPath>\\r\\n      <LangPath Language=\\\"ka\\\">ka/shellstrings.0365efecd75349e1adb57bb0d49bece6.json</LangPath>\\r\\n      <LangPath Language=\\\"kk\\\">kk/shellstrings.3d8a0b0a8c075757cc3dbbab5edaec93.json</LangPath>\\r\\n      <LangPath Language=\\\"km-kh\\\">km-kh/shellstrings.5c99bfe0e7ca3a5e54c399340ca83b1e.json</LangPath>\\r\\n      <LangPath Language=\\\"kn\\\">kn/shellstrings.d5b6f495617bf16cc7a6fc6348cf26b7.json</LangPath>\\r\\n      <LangPath Language=\\\"ko\\\">ko/shellstrings.2ce6a66c806280302d834aa13c39f145.json</LangPath>\\r\\n      <LangPath Language=\\\"kok\\\">kok/shellstrings.bf93910b139d7260536570512326daf1.json</LangPath>\\r\\n      <LangPath Language=\\\"ky\\\">ky/shellstrings.48ecb482773fc531fb146eacffeeb7e7.json</LangPath>\\r\\n      <LangPath Language=\\\"lb-lu\\\">lb-lu/shellstrings.c0fc6b91cb4593ee252b932e3e45e25a.json</LangPath>\\r\\n      <LangPath Language=\\\"lo-la\\\">lo-la/shellstrings.5ae0ac7797614f57e24cc59f76f46b23.json</LangPath>\\r\\n      <LangPath Language=\\\"lt\\\">lt/shellstrings.e695e035a14dbf915bd663c3415b3f79.json</LangPath>\\r\\n      <LangPath Language=\\\"lv\\\">lv/shellstrings.9ef703418fd023f5ca4959edc0785ba5.json</LangPath>\\r\\n      <LangPath Language=\\\"mi-nz\\\">mi-nz/shellstrings.c712df63a82bb944115596c079424177.json</LangPath>\\r\\n      <LangPath Language=\\\"mk\\\">mk/shellstrings.3e96dc4aaa4efd1aec3abb5e4bbe41fd.json</LangPath>\\r\\n      <LangPath Language=\\\"ml\\\">ml/shellstrings.28f0aa4f7f605a18398a3562734aeb80.json</LangPath>\\r\\n      <LangPath Language=\\\"mn-mn\\\">mn-mn/shellstrings.5e08498eab8cf9b831640ed5b98f5fa2.json</LangPath>\\r\\n      <LangPath Language=\\\"mr\\\">mr/shellstrings.1f25b50d312b9e14c8cd1dd57c050cd1.json</LangPath>\\r\\n      <LangPath Language=\\\"ms\\\">ms/shellstrings.ee35db7a227486a4ef1d4a06af23cd3a.json</LangPath>\\r\\n      <LangPath Language=\\\"mt-mt\\\">mt-mt/shellstrings.ed13a06df57553aa3439fe36b9b52187.json</LangPath>\\r\\n      <LangPath Language=\\\"ne-np\\\">ne-np/shellstrings.f9c62393f47f69fd5562e52016b8b027.json</LangPath>\\r\\n      <LangPath Language=\\\"nl\\\">nl/shellstrings.e6f59abdd1b31a66595797a421be453e.json</LangPath>\\r\\n      <LangPath Language=\\\"nn-no\\\">nn-no/shellstrings.8825433ed621bbd75dcc7697b6848ed2.json</LangPath>\\r\\n      <LangPath Language=\\\"no\\\">no/shellstrings.e7a990e6d5a1f5bddd679e3e32778589.json</LangPath>\\r\\n      <LangPath Language=\\\"or\\\">or/shellstrings.82f362b37336d225eb30bd525ed3fb51.json</LangPath>\\r\\n      <LangPath Language=\\\"pa-in\\\">pa-in/shellstrings.a7e3c53ffaa7beb2e87b75c55615006e.json</LangPath>\\r\\n      <LangPath Language=\\\"pl\\\">pl/shellstrings.b02b0196bbc0b0ad8698a6c4e4976787.json</LangPath>\\r\\n      <LangPath Language=\\\"prs\\\">prs/shellstrings.d5204bdb6e0a8335168829f67826e007.json</LangPath>\\r\\n      <LangPath Language=\\\"pt-pt\\\">pt-pt/shellstrings.83323a5209c0a661bc514f159ba3a45f.json</LangPath>\\r\\n      <LangPath Language=\\\"pt\\\">pt/shellstrings.699becbf376d48a023b2f904aaf18312.json</LangPath>\\r\\n      <LangPath Language=\\\"quz-pe\\\">quz-pe/shellstrings.dd3b9652a0a8ac5fd0756f3de658d565.json</LangPath>\\r\\n      <LangPath Language=\\\"ro\\\">ro/shellstrings.f594795ae72093fc088d8b1ba66d873b.json</LangPath>\\r\\n      <LangPath Language=\\\"ru\\\">ru/shellstrings.1c3318bcda0d5659f8a52986568b5687.json</LangPath>\\r\\n      <LangPath Language=\\\"sd-arab-pk\\\">sd-arab-pk/shellstrings.b013023788462d2261652ba0d42b9feb.json</LangPath>\\r\\n      <LangPath Language=\\\"si-lk\\\">si-lk/shellstrings.7ecb5fdfe0f9109a9c2e8eca5d9afb70.json</LangPath>\\r\\n      <LangPath Language=\\\"sk\\\">sk/shellstrings.fe718ed5c0b322d85e8f15504d72640c.json</LangPath>\\r\\n      <LangPath Language=\\\"sl\\\">sl/shellstrings.fe2bd59c62d769371195450a773a8ef8.json</LangPath>\\r\\n      <LangPath Language=\\\"sq\\\">sq/shellstrings.bba2535ac9afc29c999c0296aa89fa6f.json</LangPath>\\r\\n      <LangPath Language=\\\"sr-cyrl-ba\\\">sr-cyrl-ba/shellstrings.0523984f49f4eb6a4932cf8e7ae813ae.json</LangPath>\\r\\n      <LangPath Language=\\\"sr-cyrl\\\">sr-cyrl/shellstrings.bef8899db2829caa366ff15666020fac.json</LangPath>\\r\\n      <LangPath Language=\\\"sr\\\">sr/shellstrings.e29e0b89042a2bedfb2acfe60baf1d67.json</LangPath>\\r\\n      <LangPath Language=\\\"sv\\\">sv/shellstrings.dcd1fcf6ccde52dd5ca3ac1da497ec65.json</LangPath>\\r\\n      <LangPath Language=\\\"sw\\\">sw/shellstrings.c7d6fd7fa5e71c4dcd65cec21af84000.json</LangPath>\\r\\n      <LangPath Language=\\\"ta\\\">ta/shellstrings.3766aba71af55f11701f9969cb4694ea.json</LangPath>\\r\\n      <LangPath Language=\\\"te\\\">te/shellstrings.c947f77392fb2ee4d65f427c5e3f400a.json</LangPath>\\r\\n      <LangPath Language=\\\"th\\\">th/shellstrings.ec6afc3bcba3f9d6eabb0ecae8fcc878.json</LangPath>\\r\\n      <LangPath Language=\\\"tk-tm\\\">tk-tm/shellstrings.3f38627fc74ef56eaf0162fd7f6e7055.json</LangPath>\\r\\n      <LangPath Language=\\\"tr\\\">tr/shellstrings.c45a883bde60e696591b36f7e8bb67ce.json</LangPath>\\r\\n      <LangPath Language=\\\"tt\\\">tt/shellstrings.e9cb2a35e6d46288ddab00f1dac83b92.json</LangPath>\\r\\n      <LangPath Language=\\\"ug-cn\\\">ug-cn/shellstrings.e5958a4261261c819199485888691846.json</LangPath>\\r\\n      <LangPath Language=\\\"uk\\\">uk/shellstrings.729e5c2f049755420487235987244405.json</LangPath>\\r\\n      <LangPath Language=\\\"ur\\\">ur/shellstrings.d4a6fdb2ecf1d1b347d46975da72ac97.json</LangPath>\\r\\n      <LangPath Language=\\\"uz\\\">uz/shellstrings.d6d9a44a2495199a3cad98f3195495a9.json</LangPath>\\r\\n      <LangPath Language=\\\"vi\\\">vi/shellstrings.e5388a1547d0f129a0b30880db1f93c6.json</LangPath>\\r\\n      <LangPath Language=\\\"zh-hans\\\">zh-hans/shellstrings.54faa3ace07d2ee7c0ccd71bc102f44e.json</LangPath>\\r\\n      <LangPath Language=\\\"zh-hant\\\">zh-hant/shellstrings.7450d79ae70ad72480ea578eda6edde7.json</LangPath>\\r\\n    </Resource>\\r\\n  </Resources>\\r\\n  <Pages />\\r\\n</ResourceCatalog>\",\"ResourceCatalogHostUrl\":\"https://res-1.cdn.office.net/shellux\"},\"IsRtl\":false,\"AriaTelemetryTenantToken\":\"c6c190a1b73c4a63bba89835d546cf28-f2a0482f-a00d-48d9-822e-e89cc89eb64d-7688\",\"OTelTelemetryTenantToken\":\"b0c82c6598ad49f3848b1d3dc0d8dd25-299cbfe9-b72e-4e9d-a5e3-20319efba5b5-7268\",\"Environment\":\"SEAprod\",\"CultureHierarchy\":[\"en-US\",\"en\"]}"
+        },
+        {
+          "name": "O365Shell_ThemeInfo_Business",
+          "value": "{\"Id\":\"base\",\"Primary\":\"#282828\",\"NavBar\":\"#282828\",\"DefaultBackground\":\"#282828\",\"BackgroundImageUrl\":null,\"DefaultText\":\"#FFFFFF\",\"AppName\":\"#FFFFFF\",\"FullBleedImages\":null,\"userPersonalizationAllowed\":true}"
+        }
+      ]
+    }
+  ]
+}
